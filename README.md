@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @IsitCoder An IT Student From UTAR Malaysia, 
-     B4 this I working in field of agriculture, vegetable supply chain and agro tourism
-     
-- 👀 I’m interested in learning more knowledge in any u interest field
-- 🌱 I’m currently learning Data Struture and Web App
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @IsitCoder or call me Ewan from Malaysia 
+- 👀 I’m interested in learning more knowledge
 - 📫 How to reach me isitcoder97@gmail.com
 
 Peace Baby!~
