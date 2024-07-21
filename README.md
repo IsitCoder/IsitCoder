@@ -7,6 +7,6 @@ Peace Baby!~
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsitCoder&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsitCoder&show_icons=true&theme=algolia)](https://github.com/IsitCoder/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsitCoder&layout=donut&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
